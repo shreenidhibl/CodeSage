@@ -25,7 +25,7 @@ CodeSage is an intelligent AI coding practice mentor equipped with persistent me
 - Python 3.10+ & FastAPI
 - SQLAlchemy (Async ORM) & asyncpg
 - PostgreSQL (pgvector compatible)
-- External APIs: Groq (Llama-3), Judge0 (Secure Code Execution)
+- External APIs: Groq (Llama-3), PISTON (Secure Code Execution)
 
 ## 🚀 Getting Started
 
@@ -33,7 +33,7 @@ CodeSage is an intelligent AI coding practice mentor equipped with persistent me
 - Node.js (v18 or higher)
 - Python (v3.10 or higher)
 - PostgreSQL database
-- API Keys for Groq and Judge0
+- API Keys for Groq and PISTON
 
 ### 1. Backend Setup
 
